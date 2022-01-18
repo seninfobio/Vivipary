@@ -24,6 +24,15 @@
   - Once per week continously for 6 weeks.
   - RNA extraction, RNAseq library construction and sequencing, De novo assembly, DEG, GO, qRT-PCR
   - 
-5. [METHYLTRANSFERASE1 and Ripening in Vivipary](https://plantae.org/methyltransferase1-and-ripening-in-vivipary/)
+5. [METHYLTRANSFERASE1 and Ripening Modulate Vivipary during Tomato Fruit Development](https://academic.oup.com/plphys/article/183/4/1883/6118552)
   - DNA methylation affected not only fruit ripening but also the growth of viviparous seedling within the cnr(colorless non ripening) fruits
   - spontaneous epimutation that causes hypermethylation in the promoter of CNR, agene that encodes that SQUAMOSA promoter binding protein box TF SPL-CNR
+
+
+6. 2016_[Seed development and viviparous germination in one accession of a tomato rin mutant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902461/)
+  - ABA concentrations in seeds were low during early development and increased later
+  - maize vivipary can be induced by treating kernels with fluridone or other pyridinones, which decrease their ABA content
+  - Tomato, melon, fleshfruits osmotic potential of the fruit tissue that plays an important role in prevention of precocious germination
+
+7. [Ultrastructural and electrophoretic analyses of viviparous and normal seeds in hybrid rape (Brassica napus L.)](https://sci-hub.se/10.15258/sst.2008.36.2.10)
+8.
