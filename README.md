@@ -38,7 +38,7 @@
 
 
 
- * The enzymes *9-cis-epoxycarotenoid dioxygenase (NCED)*, xanthoxin dehydrogenase (ABA2), and abscisic-aldehyde oxidase (AAO3) catalyze violaxanthin and neoxanthin to produce xanthoxin and abscisic acid, respectively
+ * The enzymes 9-cis-epoxycarotenoid dioxygenase (NCED), xanthoxin dehydrogenase (ABA2), and abscisic-aldehyde oxidase (AAO3) catalyze violaxanthin and neoxanthin to produce xanthoxin and abscisic acid, respectively
     - [Expression of 9-cis-EPOXYCAROTENOID DIOXYGENASE4 is essential for thermoinhibition of lettuce seed germination but not for seed development or stress tolerance]
     - [Regulation of drought tolerance by gene manipulation of 9‐cis‐epoxycarotenoid dioxygenase, a key enzyme in abscisic acid biosynthesis in Arabidopsis]
     - [Functional analysis of Arabidopsis NCED6 and NCED9 genes indicates that ABA synthesized in the endosperm is involved in the induction of seed dormancy]
