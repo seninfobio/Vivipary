@@ -48,3 +48,5 @@
     - [Carotenoid biosynthetic genes in Brassica rapa: comparative genomic analysis, phylogenetic analysis, and expression profiling (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4490644/#CR26)
     - [Carotenoid Biosynthetic Genes in Cabbage: Genome-Wide Identification, Evolution, and Expression Analysis](https://www.mdpi.com/2073-4425/12/12/2027/htm)
     - [Functional characterization of the BnNCED3 gene in Brassica napus](https://www.sciencedirect.com/science/article/pii/S0168945216301728?via%3Dihub)
+
+8. [Transcriptome and Hormone Comparison of Three Cytoplasmic Male Sterile Systems in Brassica napus](https://www.mdpi.com/1422-0067/19/12/4022/htm)
