@@ -2,13 +2,14 @@
 
 # References
 
-1. 2022_[Comprehensive Analysis of Carotenoid Cleavage Dioxygenases Gene Family and Its Expression in Response to Abiotic Stress in Poplar](https://www.mdpi.com/1422-0067/23/3/1418)
-2. 2008_[Vivipary as a tool to analyze late embryogenic events in maize](https://www.nature.com/articles/hdy200829)
-3. 2000_[Gibberellins and Seed Development in Maize. I. Evidence That Gibberellin/Abscisic Acid Balance Governs Germination versus Maturation Pathways](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC58942/)
+1. 2021_[Safety verification of genetically modified rice morphology, hereditary nature, and quality](https://enveurope.springeropen.com/articles/10.1186/s12302-021-00516-9#Sec10)
+2. 2022_[Comprehensive Analysis of Carotenoid Cleavage Dioxygenases Gene Family and Its Expression in Response to Abiotic Stress in Poplar](https://www.mdpi.com/1422-0067/23/3/1418)
+3. 2008_[Vivipary as a tool to analyze late embryogenic events in maize](https://www.nature.com/articles/hdy200829)
+4. 2000_[Gibberellins and Seed Development in Maize. I. Evidence That Gibberellin/Abscisic Acid Balance Governs Germination versus Maturation Pathways](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC58942/)
   -  we hypothesized that ABA antagonizes a positive GA signal for precocious germination in maize
   -  In these experiments, we show that a GA deficiency early in seed development, induced genetically or via biosynthesis inhibitors, suppresses vivipary in ABA-deficient developing kernels
   -  We speculate that these GAs stimulate a developmental program leading to vivipary in the absence of normal amounts of ABA and that a reduction of GA content re-establishes an ABA/GA ratio appropriate for suppression of germination and induction of maturation.
-4. 2019_[Plant hormone profiling in developing seeds of common wheat (Triticum aestivum L.)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6977454/)
+5. 2019_[Plant hormone profiling in developing seeds of common wheat (Triticum aestivum L.)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6977454/)
   - Nine plant hormones in developing seeds of field grown wheat varities
   - Spikes were tagged at anthesis and were harvested at 5-day intervals from 30 to 60 days post-anthesis (DPA)
   - Water contents and dry weights of seeds were examined
